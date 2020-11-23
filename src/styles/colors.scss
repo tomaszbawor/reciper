@@ -6,12 +6,74 @@ $pale-spring-bud: #cfd2b2ff;
 $gainsboro: #e0d8deff;
 
 /* SCSS Gradient */
-$gradient-top: linear-gradient(0deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-right: linear-gradient(90deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-bottom: linear-gradient(180deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-left: linear-gradient(270deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-top-right: linear-gradient(45deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-bottom-right: linear-gradient(135deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-top-left: linear-gradient(225deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-bottom-left: linear-gradient(315deg, #4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
-$gradient-radial: radial-gradient(#4b3b47ff, #6a6262ff, #9c9990ff, #cfd2b2ff, #e0d8deff);
+$gradient-top: linear-gradient(
+  0deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-right: linear-gradient(
+  90deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-bottom: linear-gradient(
+  180deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-left: linear-gradient(
+  270deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-top-right: linear-gradient(
+  45deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-bottom-right: linear-gradient(
+  135deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-top-left: linear-gradient(
+  225deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-bottom-left: linear-gradient(
+  315deg,
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
+$gradient-radial: radial-gradient(
+  #4b3b47ff,
+  #6a6262ff,
+  #9c9990ff,
+  #cfd2b2ff,
+  #e0d8deff
+);
